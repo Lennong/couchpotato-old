@@ -159,7 +159,7 @@ config = [{
             'options': [
                 {
                     'name': 'api_key',
-                    'default': 'c930ebf3',  # Don't be a dick and use this somewhere else
+                    'default': 'bbc0e412',  # Don't be a dick and use this somewhere else
                     'label': 'Api Key',
                 },
             ],
